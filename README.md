@@ -1,10 +1,4 @@
 # Boas vindas ao repositório do projeto All For One
----
-## O que deverá ser desenvolvido
-
-Nesse projeto teremos uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
-
----
 
 ## Habilidades Desenvolvidas:
 - Entender o que são bancos de dados
@@ -32,6 +26,9 @@ Nesse projeto teremos uma série de desafios com diferentes níveis de complexid
 - Apagar dados em tabelas com `DELETE`
 
 ---
+## O que deverá ser desenvolvido
+
+Nesse projeto teremos uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
 
 1. Leia a pergunta e crie na raiz do projeto um arquivo chamado desafioN.sql, em que N é o número do desafio;
 
