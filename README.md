@@ -56,7 +56,7 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 1. Clone o repositório
   * `git clone git@github.com:Lenakirara/All_For_One.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-011-project-mysql-all-for-one`
+    * `cd All_For_One`
 
 2. Instale as dependências [**Caso existam**]
   * `npm install` [**exemplo**]
